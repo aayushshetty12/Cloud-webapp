@@ -1,4 +1,8 @@
-# Assignment 
+# Cloud Native Web Application
+
+## Technologies used
+
+Google Cloud Platform(GCP), Node.js, Express.js, Cloud SQL, Terraform, GitHub CI/CD, Packer
 
 ## Prerequisites
 
@@ -6,7 +10,6 @@ Before you begin, ensure you have met the following requirements:
 
 - Node.js: [Download and Install Node.js](https://nodejs.org/)
 - npm (Node Package Manager): Included with Node.js installation
-- MySQL: [Download and Install MySQL](https://www.mysql.com/)
   
 ## Installation
 
